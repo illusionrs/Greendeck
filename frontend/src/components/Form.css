@@ -1,0 +1,80 @@
+.container{
+
+    display: flex;
+    flex-direction: row;
+
+    width: 110vh;
+    height: 80vh;
+    margin: 20px;
+    background-color: white;
+    
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    position: absolute;
+    left: 20%;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.img{
+
+   height: 70vh;
+   width: 50vh;
+
+}
+.contain{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+  
+
+}
+
+.input{
+
+    width: 200px;
+    height: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: #e6e6e6;
+    border: 0;
+    margin-left: 5px;
+}
+
+button{
+    width: 80px;
+    height: 30px;
+    padding: 5px;
+    margin-left: 70px;
+    background-color: #4d4dff;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+
+}
+
+
+.google{
+   
+    margin-top: 40px;
+    margin-left: 40px;
+   
+    border-style: solid;
+    padding: 7px;
+    width: 130px;
+    border-radius: 7px;
+    background-color: #4d4dff ;
+    color: white;
+    
+
+}
+.or{
+  
+    margin-left: 100px;
+    
+
+}
